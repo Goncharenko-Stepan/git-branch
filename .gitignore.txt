@@ -1,0 +1,11 @@
+*.iml
+*.json
+
+.idea/*
+.idea/
+out/
+debug/
+*.ear
+*.tmp
+*.exe
+
